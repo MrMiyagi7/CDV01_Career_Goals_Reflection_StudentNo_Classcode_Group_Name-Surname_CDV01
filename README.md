@@ -1,87 +1,90 @@
 
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
+# Career Goals Reflection 
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Miguel Freitas
+- **Date:**19/03/24
+- **Current Role/Position:** Assistant Manager
+- **Field of Interest:** Software Development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - 
+    Software Troubleshooting: Proficient in identifying and resolving software-related issues efficiently.
+    Networking: Possess a basic understanding of networking concepts, facilitating troubleshooting of connectivity issues.
+    Problem-Solving: Strong analytical and critical thinking abilities enable me to diagnose and resolve complex issues effectively.
+    Adaptability: Flexibility to adapt to changing technologies and procedures, crucial in the fast-paced tech industry.
+    Attention to Detail: Thoroughness in documenting issues and solutions ensures accuracy and completeness in problem resolution.
+
+    - 
+    Communication: Enhancing clear and effective communication skills, especially in articulating technical concepts to non-technical users.
+    Time Management: Improving time management skills to ensure timely completion of tasks and meeting deadlines.
+    Teamwork: Developing collaboration skills to work effectively with team members and contribute positively to group projects.
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - 
+    Innovation: I value environments that encourage innovation and creativity in software development.
+    Collaboration: I appreciate working in teams where there is open communication and mutual respect among members.
+    Continuous Learning: I seek roles that offer opportunities for continuous learning and skill development in the field of technology.
+    
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
-    
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    Technology, Software Development, IT Services.
+    Software Developer, Full Stack Developer, Frontend Developer.
+    The role of a Software Developer particularly intrigued me due to its focus on building innovative solutions and working with cutting-edge technologies.
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    These industries and roles align well with my technical skills and interests in software development.
+    I see potential growth opportunities in roles that involve problem-solving, innovation, and collaboration.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+        Goal 1: Enhance Communication Skills by participating in communication workshops or courses to improve verbal and written communication.
+        Clear communication is essential for effective collaboration and understanding of project requirements.
+        Goal 2: Improve Time Management by utilizing productivity tools and techniques to prioritize tasks and meet deadlines effectively.
+        Efficient time management ensures timely completion of projects and enhances productivity.
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+        Goal 1: Advance to a Senior Software Developer role where I can lead development projects and mentor junior developers.
+        Leadership roles offer opportunities to contribute to project direction and share knowledge with others.
+        Contribute to Open Source Projects to expand my portfolio and contribute to the broader software development community.
+        Rationale: Contributing to open-source projects enhances visibility within the developer community and allows for collaboration on meaningful projects.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+        Goal 1:
+        Enroll in communication workshops or online courses within the next month.
+        Practice communication skills by regularly explaining technical concepts to non-technical friends or family members.
+        Goal 2:
+        Utilize time-tracking tools immediately to identify time sinks and areas for improvement.
+        Implement prioritization techniques.
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+        Goal 1:
+        Seek mentorship from experienced Senior Developers to understand their responsibilities and skills required.
+        Take on leadership opportunities within development projects to gain experience in project management.
+        Goal 2:
+        Identify Open Source Projects aligned with personal interests and contribute regularly to GitHub repositories.
+        Attend developer meetups and conferences to network with other developers and learn from industry experts.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
-    
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+        Balancing professional development activities with project deadlines and daily job responsibilities may prove challenging.
+        Overcoming communication barriers, especially when collaborating with cross-functional teams or explaining technical concepts to stakeholders.
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+        Leveraging online learning platforms like Udemy, Coursera, or LinkedIn Learning to expand technical skills and knowledge.
+        Participating in developer communities and forums to network with peers, seek advice, and share experiences.
 
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
 
 
